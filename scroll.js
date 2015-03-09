@@ -2,9 +2,9 @@
  * Ninetythree: scroll.js v1.0.0
  * Dillan Isaacs
  * March 8, 2015
- * http://getbootstrap.com/javascript/#transitions
+ * https://github.com/studioninetythree/ScrollJS.git
  * ========================================================================
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/studioninetythree/ScrollJS/blob/master/README.txt)
  * ========================================================================
  * This script works most effectively with Single-Page Sites (SPS's).
  * It is used to animate auto-scrolling withing the web page using.
